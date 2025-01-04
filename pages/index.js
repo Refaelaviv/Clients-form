@@ -1,4 +1,4 @@
-import clientform from '@/components/ClientForm';
+import clientform from '@/components/clientform';
 
 export default function Home() {
   return (
