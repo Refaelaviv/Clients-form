@@ -1,9 +1,9 @@
-import ClientForm from '@/components/ClientForm';
+import clientform from '@/components/ClientForm';
 
 export default function Home() {
   return (
     <div>
-      <ClientForm />
+      <clientform />
     </div>
   );
 }
